@@ -1,7 +1,4 @@
-![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-[![bmac](https://img.buymeacoffee.com/button-api/?text=Support Me Here&emoji=❤️&slug=seey&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/seey)
-[![ko-fi](https://img.buymeacoffee.com/button-api/?text=Support Me Here&emoji=❤️&slug=seey&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/seey)
-
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="seey" data-description="Support me on Buy me a coffee!" data-message="Hey ! Support me :)" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 - Javacript/Typescript enthusiast!
 - Small content creator on youtube, enjoys youtube videos.
