@@ -16,7 +16,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 <summary><a align ="right">🔎 Statistics </a></summary>
   </br>
   </br>
-  </br>
 
 <a>
   <a href="https://github.com/anuraghazra/convoychat">
@@ -25,6 +24,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Seyzou&theme=tokyonight&layout=compact" />
 </a>
 </details>
+
+---
+
+</br>
+</br>
 
 <p align="center">
 <a href="https://discord.gg/SahXGQ6">
