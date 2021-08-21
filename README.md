@@ -1,8 +1,3 @@
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="seey" data-description="Support me on Buy me a coffee!" data-message="Hey ! Support me :)" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
-- Javacript/Typescript enthusiast!
-- Small content creator on youtube, enjoys youtube videos.
-- Self taught programmer <br />
 
 ### Languages and Tools:
 
@@ -21,10 +16,10 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 <summary><a align ="right">🔎 Statistics </a></summary>
 
 <a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Seyzou&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seyzou&show_icons=true&theme=onedark" />
+</a>
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Seyzou&theme=tokyonight&layout=compact" />
 </a>
 </details>
 
