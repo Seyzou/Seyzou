@@ -1,16 +1,40 @@
-### Hi there 👋
+![welcome](https://i.imgur.com/6XHBC84.png) <br/>
+<a href="https://www.buymeacoffee.com/seey"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me Here&emoji=❤️&slug=seey&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-<!--
-**Seyzou/Seyzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Javacript/Typescript enthusiast!
+- Small content creator on youtube, enjoys youtube videos.
+- Self taught programmer <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+<!-- ### Jobs
+Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
+(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
+
+---
+
+<details>
+<summary><a align ="right">🔎 Statistics </a></summary>
+
+<a>
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Seyzou&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seyzou&show_icons=true&theme=onedark" />
+</a>
+</details>
+
+<p align="center">
+<a href="https://discord.gg/SahXGQ6">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+</p>
+
+
+**© [Sey](https://github.com/Seyzou)**
