@@ -34,7 +34,9 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 <a href="https://discord.gg/SahXGQ6">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
+  <a href="https://www.patreon.com/bePatron?u=49680585" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 </p>
+
 
 
 **© [Sey](https://github.com/Seyzou)**
