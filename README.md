@@ -35,7 +35,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.patreon.com/bePatron?u=49680585" data-patreon-widget-type="become-patron-button">
-    <img src="https://imgr.search.brave.com/TykJEIq-dO3DhgafIZ7v-8wgUzdb0Iw-T1VwrIf-cjM/fit/248/248/ce/1/aHR0cHM6Ly93d3cu/YXVkaW9zb2NrZXQu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzExL3BhdHJl/b24tY3JlYXRvcnMt/cGF0cmVvbi0yNDh4/MjQ4LnBuZw" alt="Patreon" width="80"/>
+    <img src="https://www.becomealivinggod.com/wp-content/uploads/2019/09/patreon.png" alt="Patreon" width="80"/>
   </a>
   
 </p>
