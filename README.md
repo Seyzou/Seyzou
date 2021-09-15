@@ -1,5 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Seyzou" alt="visitor badge"/>
+</p>
 
 <p align="center">
   <a href="https://discord.gg/SahXGQ6"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -23,11 +26,7 @@
 
 ## :headphones: Spotify
 
-[![French Music](https://img.shields.io/badge/French%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
+[![Française](https://img.shields.io/badge/French%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96)
 
 
 ----
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Seyzou" alt="visitor badge"/>
-</p>
