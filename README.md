@@ -1,14 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Seyzou" alt="visitor badge"/>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/SahXGQ6"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/lolissey.prv"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   
-  
 
 ---
 
